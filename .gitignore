@@ -1,0 +1,12 @@
+# Local, personal benchmark data — mined from your own history. Never committed.
+/tasks/*
+!/tasks/README.md
+/runs/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor / OS cruft
+.DS_Store
+*.swp
